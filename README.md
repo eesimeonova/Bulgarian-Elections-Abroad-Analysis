@@ -30,3 +30,4 @@ For context, the total number of Bulgarian voters who voted abroad was also calc
 
 However, 17,578 fewer people voted in Turkey. This finding is consistent with election experts' warnings that limiting the number of polling stations abroad could discourage voter participation.
 
+Link to the analysis: https://eesimeonova.github.io/Bulgarian-Elections-Abroad-Analysis/
